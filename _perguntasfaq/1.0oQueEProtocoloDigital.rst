@@ -16,5 +16,5 @@ O Protocolo Digital é o sistema oficial de protocolo eletrônico de atos e docu
 
 O Código de Mineração determina o direito de prioridade aos processos minerários, e ela depende não só do marco temporal, como do espacial. O registro da prioridade da área se dá por meio de sistemas especialistas, portanto é fundamental que o direito de prioridade seja registrado primeiro nos sistemas especialistas e, posteriormente, os documentos sejam encaminhados para o SEI!, sistema designado pelo Governo Federal para ser o padrão da Administração Pública Federal para os processos eletrônicos.
 
-O Protocolo Digital trata-se, então, da ferramenta que faz a integração entre o Cadastro Mineiro e o SEI!, permitindo que a ANM disponibilize aos cidadãos a conveniência, praticipidade e economicidade de utilizar um sistema remoto, sem descuidar da tradição do direito minerário. khj
+O Protocolo Digital trata-se, então, da ferramenta que faz a integração entre o Cadastro Mineiro e o SEI!, permitindo que a ANM disponibilize aos cidadãos a conveniência, praticipidade e economicidade de utilizar um sistema remoto, sem descuidar da tradição do direito minerário. 
 
