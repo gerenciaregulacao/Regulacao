@@ -1,7 +1,7 @@
 O que é o Protocolo Digital?
 =========================================================================
 
-O Protocolo Digital é o sistema oficial de protocolo eletrônico de atos e documentos relacionados aos processos minerários da ANM, instituído pela Resolução ANM nº 16/2019. 
+O Protocolo Digital é o sistema oficial de protocolo eletrônico de atos e documentos relacionados aos processos minerários da ANM, instituído pela Resolução ANM nº 16/2019. ..=
 
 
 Diferenças entre o Protocolo Digital e o módulo de Peticionamento Eletrônico do SEI:
